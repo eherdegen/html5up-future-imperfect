@@ -31,9 +31,9 @@
 						<nav class="main">
 							<ul>
 								<li class="search">
-
+									<a class="fa-search" href="#search">Search</a>
 									<form id="search" method="get" action="#">
-
+										<input type="text" name="query" placeholder="Search" />
 									</form>
 								</li>
 								<li class="menu">
@@ -57,25 +57,25 @@
 							<section>
 								<ul class="links">
 									<li>
-										<a href="https://medium.com/@emmah98"target="_blank">
+										<a href="https://medium.com/@emmah98">
 											<h3>About</h3>
 											<p></p>
 										</a>
 									</li>
 									<li>
-										<a href="https://medium.com/@emmah98"target="_blank">
+										<a href="https://medium.com/@emmah98">
 											<h3>Articles</h3>
 											<p></p>
 										</a>
 									</li>
 									<li>
-										<a href="https://soundcloud.com/user-24515097/weight-room-women"target="_blank">
+										<a href="https://soundcloud.com/user-24515097/weight-room-women">
 											<h3>Podcasts</h3>
 											<p></p>
 										</a>
 									</li>
 									<li>
-										<a href="https://youtu.be/CTS1vZWIo1g"target="_blank">
+										<a href="#">
 											<h3>Videos</h3>
 											<p></p>
 										</a>
@@ -85,7 +85,9 @@
 
 						<!-- Actions -->
 							<section>
-
+								<ul class="actions stacked">
+									<li><a href="#" class="button large fit">Log In</a></li>
+								</ul>
 							</section>
 
 					</section>
@@ -97,23 +99,24 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="https://medium.com/@emmah98/the-case-for-cardio-72a073c91c5d"target="_blank">The Case for Cardio</a></h2>
+										<h2><a href="https://medium.com/@emmah98/the-case-for-cardio-72a073c91c5d">The Case for Cardio</a></h2>
 										<p>Using exercise to up your academic game</p>
 									</div>
 									<div class="meta">
 										<time class="published" datetime="2015-11-01">October 20, 2018</time>
-										<a href="https://medium.com/@emmah98/the-case-for-cardio-72a073c91c5d" target="_blank" class="author"><span class="name">Emma Herdegen</span><img src="https://images.unsplash.com/photo-1543350500-db2c6ff7b70f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ffcc1f2547e2a86a4b773d362fa61bcd&auto=format&fit=crop&w=800&q=60" alt="" /></a>
+										<a href="#" class="author"><span class="name">Emma Herdegen</span><img src="https://images.unsplash.com/photo-1543350500-db2c6ff7b70f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ffcc1f2547e2a86a4b773d362fa61bcd&auto=format&fit=crop&w=800&q=60" alt="" /></a>
 									</div>
 								</header>
-								<a href="https://medium.com/@emmah98/the-case-for-cardio-72a073c91c5d" class="image featured"><img src="https://cdn-images-1.medium.com/max/1200/0*SJT6NMlLQn8oy7gW" alt="" /></a>
+								<a href="single.html" class="image featured"><img src="https://cdn-images-1.medium.com/max/1200/0*SJT6NMlLQn8oy7gW" alt="" /></a>
 								<p>When you’re running on minimal sleep, probably the last thing you want to do is choose a jog around the neighborhood over a nap. It’s popular science that exercise improves brain function in many ways: mood, energy levels, and sociability to name a few. From an educational standpoint, what option is the most effective to increase short term productivity: a short nap or a cardio session? </p>
 								<footer>
 									<ul class="actions">
-										<li><a href="https://medium.com/@emmah98/the-case-for-cardio-72a073c91c5d" target="_blank" class="button large">Continue Reading</a></li>
+										<li><a href="https://medium.com/@emmah98/the-case-for-cardio-72a073c91c5d" class="button large">Continue Reading</a></li>
 									</ul>
 									<ul class="stats">
-										<li><a href="#"></a></li>
-
+										<li><a href="#">General</a></li>
+										<li><a href="#" class="icon fa-heart">88</a></li>
+										<li><a href="#" class="icon fa-comment">9</a></li>
 									</ul>
 								</footer>
 							</article>
@@ -130,14 +133,16 @@
 										<a href="#" class="author"><span class="name">Emma Herdegen</span><img src="https://images.unsplash.com/photo-1543350500-db2c6ff7b70f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ffcc1f2547e2a86a4b773d362fa61bcd&auto=format&fit=crop&w=800&q=60" alt="" /></a>
 									</div>
 								</header>
-								<a href="https://medium.com/@emmah98/weed-out-the-source-of-your-stress-f4e3c5cd8f87" class="image featured"><img src="https://cdn-images-1.medium.com/max/1200/0*Xnkf9Im3SlSI_-x7" alt="" /></a>
+								<a href="single.html" class="image featured"><img src="https://cdn-images-1.medium.com/max/1200/0*Xnkf9Im3SlSI_-x7" alt="" /></a>
 								<p>Similar to other popular recreational drugs like alcohol, marijuana is classified as a depressant, and is noted for relaxation and mood improvement. With this in mind, could recreational weed be an effective tool for stress relief? A study at the University of Illinois at Chicago points to yes.</p>
 								<footer>
 									<ul class="actions">
-										<li><a href="https://medium.com/@emmah98/weed-out-the-source-of-your-stress-f4e3c5cd8f87" target="_blank" class="button large">Continue Reading</a></li>
+										<li><a href="https://medium.com/@emmah98/weed-out-the-source-of-your-stress-f4e3c5cd8f87" class="button large">Continue Reading</a></li>
 									</ul>
 									<ul class="stats">
-
+										<li><a href="#">General</a></li>
+										<li><a href="#" class="icon fa-heart">28</a></li>
+										<li><a href="#" class="icon fa-comment">128</a></li>
 									</ul>
 								</footer>
 							</article>
@@ -146,7 +151,7 @@
 							<article class="post">
 								<header>
 									<div class="title">
-										<h2><a href="https://medium.com/@emmah98/how-fad-diets-are-killing-real-nutrition-8dabf447731f" target="_blank">How fad diets are killing real nutrition</a></h2>
+										<h2><a href="https://medium.com/@emmah98/how-fad-diets-are-killing-real-nutrition-8dabf447731f">How fad diets are killing real nutrition</a></h2>
 										<p></p>
 									</div>
 									<div class="meta">
@@ -154,14 +159,16 @@
 										<a href="#" class="author"><span class="name">Emma Herdegen</span><img src="https://images.unsplash.com/photo-1543350500-db2c6ff7b70f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ffcc1f2547e2a86a4b773d362fa61bcd&auto=format&fit=crop&w=800&q=60" alt="" /></a>
 									</div>
 								</header>
-								<a href="https://medium.com/@emmah98/how-fad-diets-are-killing-real-nutrition-8dabf447731f" class="image featured"><img src="https://cdn-images-1.medium.com/max/1600/0*xXZ7-IdCvMHP7cR1" alt="" /></a>
+								<a href="single.html" class="image featured"><img src="https://cdn-images-1.medium.com/max/1600/0*xXZ7-IdCvMHP7cR1" alt="" /></a>
 								<p>Are popular dieting techniques worthwhile? Are they even good for you? Most people have considered trying a diet at some point. In fact, about 45 million people in the United States alone try dieting each year. Whether you are worried about your health, your doctor suggested it, or you just want to switch things up, dieting is extremely popular.</p>
 								<footer>
 									<ul class="actions">
 										<li><a href="https://medium.com/@emmah98/how-fad-diets-are-killing-real-nutrition-8dabf447731f" class="button large">Continue Reading</a></li>
 									</ul>
 									<ul class="stats">
-
+										<li><a href="#">General</a></li>
+										<li><a href="#" class="icon fa-heart">28</a></li>
+										<li><a href="#" class="icon fa-comment">128</a></li>
 									</ul>
 								</footer>
 							</article>
@@ -479,7 +486,7 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 							</article>
 						-->
 
-
+						
 
 					</div>
 
@@ -503,47 +510,47 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 									<li>
 										<article>
 											<header>
-												<h3><a href="https://www.recsports.vt.edu/visit/indoor/mccomas.html" target="_blank">Virginia Tech Gym Facilities</a></h3>
+												<h3><a href="single.html">Virginia Tech Gym Facilities</a></h3>
 												<time class="published" datetime="2015-10-20"></time>
 											</header>
-											<a href="https://www.recsports.vt.edu/visit/indoor/mccomas.html" class="image" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9gL_I2PBN9fD_yBoC859WDyPLDx6NCZ4l5ja0HdEVNXS5Xk9THw" alt="" />
+											<a href="single.html" class="image"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9gL_I2PBN9fD_yBoC859WDyPLDx6NCZ4l5ja0HdEVNXS5Xk9THw" alt="" />
 												 </a>
 										</article>
 									</li>
 									<li>
 										<article>
 											<header>
-												<h3><a href="http://www.heart.org/en/healthy-living/healthy-eating" taget="_blank">Healthy Dieting Resources</a></h3>
+												<h3><a href="http://www.heart.org/en/healthy-living/healthy-eating"></a>Healthy Dieting Resources</h3>
 												<time class="published" datetime="2015-10-15"></time>
 											</header>
-											<a href="http://www.heart.org/en/healthy-living/healthy-eating" class="image" target="_blank"><img src="http://www.heart.org/-/media/images/logos/global/header/aha_icon.svg?h=100&w=200&hash=D62CB4C684F15B6AF7F22179594B064D7E5F9503" alt="" /> </a>
+											<a href="http://www.heart.org/en/healthy-living/healthy-eating" class="image"><img src="http://www.heart.org/-/media/images/logos/global/header/aha_icon.svg?h=100&w=200&hash=D62CB4C684F15B6AF7F22179594B064D7E5F9503" alt="" /> </a>
 										</article>
 									</li>
 									<li>
 										<article>
 											<header>
-												<h3><a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/fitness/art-20048269">Fitness and how to get started</a></h3>
-												<time class="published" target="_blank" datetime="2015-10-10"></time>
+												<h3><a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/fitness/art-20048269"></a>Fitness and how to get started</h3>
+												<time class="published" datetime="2015-10-10"></time>
 											</header>
-											<a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/fitness/art-20048269" class="image" target="_blank"><img src="https://www.mayoclinic.org/-/media/images/mayologo.png" alt="" /></a>
+											<a href="https://www.mayoclinic.org/healthy-lifestyle/fitness/in-depth/fitness/art-20048269" class="image"><img src="https://www.mayoclinic.org/-/media/images/mayologo.png" alt="" /></a>
 										</article>
 									</li>
 									<li>
 										<article>
 											<header>
-												<h3><a href="https://medium.com/" target="_blank">Medium</a></h3>
+												<h3><a href="https://medium.com/"></a>Medium</h3>
 												<time class="published" datetime="2015-10-08"></time>
 											</header>
-											<a href="https://medium.com/" target="_blank" class="image"><img src="images/pic11.jpg" alt="" /></a>
+											<a href="https://medium.com/" class="image"><img src="images/pic11.jpg" alt="" /></a>
 										</article>
 									</li>
 									<li>
 										<article>
 											<header>
-												<h3><a href="https://unsplash.com/search/photos/camera" target="_blank">Unsplash</a></h3>
+												<h3><a href="https://unsplash.com/search/photos/camera"></a>Unsplash</h3>
 												<time class="published" datetime="2015-10-06"></time>
 											</header>
-											<a href="https://unsplash.com/search/photos/camera" class="image" target="_blank"><img src="images/pic11.jpg" alt="" /></a>
+											<a href="https://unsplash.com/search/photos/camera" class="image"><img src="images/pic11.jpg" alt="" /></a>
 										</article>
 									</li>
 								</ul>
